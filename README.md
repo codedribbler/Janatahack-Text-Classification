@@ -25,7 +25,7 @@ Note that a research article can possibly have more than 1 topics. The research 
 
 ## Train Dataset Schema
 
-|                  |                                                         |
+|------------------|---------------------------------------------------------|   
 | ID               |  Unique ID for each article                             |
 | TITLE            |  Title of the research article                          |
 | ABSTRACT         |  Abstract of the research article                       |
@@ -37,6 +37,7 @@ Note that a research article can possibly have more than 1 topics. The research 
 | Biology          |                                                (1/0)    |
 | Quantitative     |  Whether article belongs to topic Quantitative Finance  |
 | Finance          |                                                (1/0)    |
+|------------------|---------------------------------------------------------|
 
 
 
