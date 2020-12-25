@@ -35,8 +35,7 @@ Note that a research article can possibly have more than 1 topics. The research 
 | Statistics       |  Whether article belongs to topic Statistics (1/0)      |
 | Mathematics      |  Whether article belongs to topic Mathematics (1/0)     |
 | Quantitative Biology     |  Whether article belongs to topic Quantitative Biology   (1/0)   |
-| Quantitative     |  Whether article belongs to topic Quantitative Finance  |
-| Finance          |                                                (1/0)    |
+| Quantitative Finance   |  Whether article belongs to topic Quantitative Finance  (1/0)    |
 
 
 
