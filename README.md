@@ -48,3 +48,8 @@ Note that a research article can possibly have more than 1 topics. The research 
 | ABSTRACT         |  Abstract of the research article                       |
 
 
+
+```python
+from fastai.text import *
+
+```
