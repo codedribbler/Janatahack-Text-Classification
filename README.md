@@ -53,7 +53,7 @@ Note that a research article can possibly have more than 1 topics. The research 
 
                 
 | ID               |  Unique ID for each article                             |
----
+|--------          |---------------                                          |
 | TITLE            |  Title of the research article                          |
 | ABSTRACT         |  Abstract of the research article                       |
 
