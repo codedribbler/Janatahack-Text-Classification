@@ -1,4 +1,6 @@
  Analytics Vidhya [Janatahack: Independence Day 2020 ML Hackathon](https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/ "").
+ 
+ [Kaggle Notebook] (https://www.kaggle.com/wewake/multi-label-topic-classification-using-fastai)
 # Topic Modeling for Research Articles using Fast AI.
 
 ### Hackathon Rank : 40 Private Leaderboard
