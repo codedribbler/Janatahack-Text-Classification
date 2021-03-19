@@ -51,7 +51,3 @@ Note that a research article can possibly have more than 1 topics. The research 
 
 
 
-```python
-from fastai.text import *
-
-```
